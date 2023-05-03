@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
 <title>HTML Full-screen iframe (100% Height and Width)</title>
 <style>
