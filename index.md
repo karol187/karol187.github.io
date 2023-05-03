@@ -1,4 +1,21 @@
-
-<html>
-  <iframe source="Mapa_RS_2023_T.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
+<!DOCTYPE html>
+<head>
+<title>HTML Full-screen iframe (100% Height and Width)</title>
+<style>
+    body{
+        margin: 0; /* Remove default margin */
+    }
+    iframe{      
+        display: block;  /* iframes are inline by default */   
+        height: 100vh;  /* Set height to 100% of the viewport height */   
+        width: 100vw;  /* Set width to 100% of the viewport width */     
+        border: none; /* Remove default border */
+        background: lightyellow; /* Just for styling */
+    }
+</style>
+</head>
+<body>
+    <iframe src="Mapa_RS_2023_T.html"></iframe>
+</body>
 </html>
+
