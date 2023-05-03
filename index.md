@@ -1,4 +1,4 @@
-## Neoficiálna webová stránka pre zobrazovanie klimatologických a zrážkomerných staníc
+#Neoficiálna webová stránka pre zobrazovanie klimatologických a zrážkomerných staníc
 
 Mapa
 
