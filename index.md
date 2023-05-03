@@ -1,1 +1,8 @@
-<iframe src="Mapa_RS_2023_T.html" height="100%" width="100%" frameborder="0"></iframe>
+iframe{      
+        display: block;  /* iframes are inline by default */   
+        height: 100vh;  /* Set height to 100% of the viewport height */   
+        width: 100vw;  /* Set width to 100% of the viewport width */     
+        border: none; /* Remove default border */
+        background: lightyellow; /* Just for styling */
+    }
+ <iframe src="Mapa_RS_2023_T.html"></iframe>
