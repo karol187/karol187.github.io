@@ -1,5 +1,6 @@
 # Sieť staníc zobrazená na interaktívnej mape
 
+
 [Interaktívna mapa](Mapa_RS_2023_T.html) Copyright [© Karol Seják, OKaZS SHMÚ, 2023] obsahuje:
 - Polohy klimatologických, zrážkomerných staníc a totalizátorov
 - Základné informácie o staniciach
