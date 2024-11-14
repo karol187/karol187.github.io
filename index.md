@@ -15,7 +15,7 @@
 [Interaktívna klasifikačná mapa](Mapa.html) Copyright [© Karol Seják, OKaZS SHMÚ, 2023] obsahuje:
 - Výsledky hodnotení umiestnení vybraných monitorovacích staníc podľa medtodiky WMO známkou 1 až 5 pre teplotu a zrážky spolu s maximálnou neistotou merania
 - Kompletné klasifikačné produkty sa zobrazia iba užívateľom s udeleným prístupom, bez prístupu sú k dispozícií len číselné hodnotenia bez podkladov
-- Pre správnu interpretáciu výsledkov je nutné poznať WMO predpis [WMO predpis](https://community.wmo.int/en/activity-areas/imop/siting-classification): 
+- Pre správnu interpretáciu výsledkov je nutné poznať [WMO predpis](https://community.wmo.int/en/activity-areas/imop/siting-classification)
 
   
 
