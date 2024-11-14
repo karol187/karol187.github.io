@@ -8,14 +8,15 @@
 - Zobrazenie aktívnych a prerušených staníc, kde sa <a href=" https://www.shmu.sk/sk/?page=1824 " title="Link">hľadá dobrovoľný pozorovateľ</a>
 - Možnosť vyhľadať stanicu podľa jej názvu a indikatívu 
 - Verzia interaktívnej mapy so zrolovanou legendou vhodnejšia pre zobrazenie na mobilnom zariadení je [tu](Mapa_RS_2024_T_M.html)
+
 # Klasifikácia polôh vybraných monitorovacích staníc 
 
 
 [Interaktívna klasifikačná mapa](Mapa.html) Copyright [© Karol Seják, OKaZS SHMÚ, 2023] obsahuje:
-- Výsledky hodnotení umiestnení vybraných monitorovacích staníc podľa medtodiky WMO známkou 1 až 5 pre teplotu a zrážky
+- Výsledky hodnotení umiestnení vybraných monitorovacích staníc podľa medtodiky WMO známkou 1 až 5 pre teplotu a zrážky spolu s maximálnou neistotou merania
 - Kompletné klasifikačné produkty sa zobrazia iba užívateľom s udeleným prístupom, bez prístupu sú k dispozícií len číselné hodnotenia bez podkladov
-- Pre správnu interpretáciu výsledkov je nutné poznať WMO predpis: 
-  [https://community.wmo.int/en/activity-areas/imop/siting-classification]
+- Pre správnu interpretáciu výsledkov je nutné poznať WMO predpis [WMO predpis](https://community.wmo.int/en/activity-areas/imop/siting-classification): 
+
   
 
 # Sieť fenologických staníc zobrazená na interaktívnej mape
