@@ -15,7 +15,7 @@
 - Výsledky hodnotení umiestnení vybraných monitorovacích staníc podľa medtodiky WMO známkou 1 až 5 pre teplotu a zrážky
 - Kompletné klasifikačné produkty sa zobrazia iba užívateľom s udeleným prístupom, bez prístupu sú k dispozícií len číselné hodnotenia bez podkladov
 - Pre správnu interpretáciu výsledkov je nutné poznať WMO predpis: 
-  https://community.wmo.int/en/activity-areas/imop/siting-classification
+  [https://community.wmo.int/en/activity-areas/imop/siting-classification]
   
 
 # Sieť fenologických staníc zobrazená na interaktívnej mape
