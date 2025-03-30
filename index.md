@@ -9,6 +9,7 @@
 - Možnosť vyhľadať stanicu podľa jej názvu a indikatívu 
 - Verzia interaktívnej mapy so zrolovanou legendou vhodnejšia pre zobrazenie na mobilnom zariadení je [tu](Mapa_RS_2024_T_M.html)
 - Pokusná verzia [Interaktívna mapa](Mapa_web_T_M.html)
+- Pokus 2 [Interaktívna mapa](Mapa_web_T1_M.html)
 
 # Klasifikácia polôh vybraných monitorovacích staníc 
 
